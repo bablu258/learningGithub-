@@ -23,7 +23,7 @@ public class SumOfNumber {
 			sum = sum + counter;
 
 		JOptionPane.showMessageDialog ( null, "The total amount is : " + sum );
-
+		System.out.println("program is done");
 	}
 
 }
